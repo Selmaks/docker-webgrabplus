@@ -36,6 +36,7 @@ RUN \
         libxml-writer-perl \
         libhtml-tableextract-perl \
         libmono-system-data4.0-cil \
+	libmono-system-net-http-webrequest4.0-cil \
         libmono-system-web4.0-cil \
         libconfig-tiny-perl \
         mono-runtime \
