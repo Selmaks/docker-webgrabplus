@@ -33,6 +33,7 @@ RUN \
         libclone-perl \
         libdatetime-perl \
         libjson-perl \
+        libconfig-tiny-perl \
         libxml-writer-perl \
         libhtml-tableextract-perl \
         libmono-system-data4.0-cil \
