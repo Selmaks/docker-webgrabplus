@@ -7,8 +7,8 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="saarg"
 
 # package versions
-ARG WEBGRAB_VER="3.1.3"
-ARG WGUPDATE_VER="3.1.3_beta"
+ARG WEBGRAB_VER="3.0.0"
+ARG WGUPDATE_VER="3.0.0_beta"
 
 # environment variables.
 ARG DEBIAN_FRONTEND="noninteractive"
